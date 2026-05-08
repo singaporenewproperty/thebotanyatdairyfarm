@@ -1,0 +1,9 @@
+# The Botany at Dairy Farm
+
+> The Botany at Dairy Farm — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/thebotanyatdairyfarm/
+
+## Pages
+
+- [The Botany at Dairy Farm](https://singaporenewproperty.github.io/thebotanyatdairyfarm/): The Botany at Dairy Farm property information.
